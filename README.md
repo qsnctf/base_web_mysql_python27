@@ -1,7 +1,7 @@
 # 说明
 ## 环境
 Linux环境：alpine\
-Python版本：Python3.8\
+Python版本：Python2.7\
 数据库服务：MySQL\
 WSGI：Gunicorn
 
